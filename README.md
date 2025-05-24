@@ -13,9 +13,6 @@ A simple task planner web application that allows users to:
 ## Build Commands
 No build tools required (pure HTML/CSS/JS).
 
-## Live Demo
-[GitHub Pages Link](your-live-link-here)
-
 ## Folder Structure
 - index.html
 - styles.css
